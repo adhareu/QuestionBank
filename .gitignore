@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/QuestionBank.API/bin/Debug/net9.0
+/QuestionBank.API/obj
+/QuestionBank.Application/bin/Debug/net9.0
+/QuestionBank.Application/obj
+/QuestionBank.Domain/bin/Debug/net9.0
+/QuestionBank.Domain/obj
+/QuestionBank.Infrastructure/bin/Debug/net9.0
+/QuestionBank.Infrastructure/obj
