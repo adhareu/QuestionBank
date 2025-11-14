@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="QuestionBank.API/QuestionBank.API.csproj" />
+  <Project Path="QuestionBank.Application/QuestionBank.Application.csproj" />
+  <Project Path="QuestionBank.Domain/QuestionBank.Domain.csproj" />
+  <Project Path="QuestionBank.Infrastructure/QuestionBank.Infrastructure.csproj" />
+</Solution>
